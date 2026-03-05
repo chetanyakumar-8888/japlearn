@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_KEY = "import.meta.env.VITE_GROQ_API_KEY";
+const API_KEY = "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";
 
 export default function App() {
   const [input, setInput] = useState("");
