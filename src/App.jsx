@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_KEY = "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";
+const API_KEY = "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";
 
 export default function App() {
   const [input, setInput] = useState("");
